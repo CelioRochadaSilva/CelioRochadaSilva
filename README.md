@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi ! welcome to my profile
+# Hi ! welcome to my profile
 
-# My name is Celio Rocha da Silva
+## My name is Celio Rocha da Silva
 
 
 - 🔭 I am currently working free throw 
