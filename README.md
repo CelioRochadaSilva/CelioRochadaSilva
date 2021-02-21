@@ -4,7 +4,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I am currently working free throw 
-- 🌱 I am currently studying: Angular 8.0, Bootstrap, Node Js ...
 - 👯 I have interest in working with technologies: Backend and frontend
 - 🤔 I have been looking for but qualification with participation in bootcmps: Dio innovation and participation in online events: Rocketseat among others.
 - Welcome my profile
