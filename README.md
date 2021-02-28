@@ -42,6 +42,10 @@ Here are some ideas to get you started:
 [![REACT NATV](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![ANGULAJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 
+## 💬  Languages(Learning)
+- English - Intermediate;
+- Portuguese - Native.
+
 
 ## Social networks.
 
