@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ![git animado](https://github.com/CelioRochadaSilva/site_pessoal/blob/master/git_animado_1.gif)
 
 
-- 🔭 I am currently working free throw 
 - 🌱 I am currently studying: Angular 8.0, Bootstrap, Node Js ...
 - 👯 I have interest in working with technologies: Backend and frontend
 - 🤔 I have been looking for more qualification with participation in bootcamps: Dio Inovação, online events:, DoWhile2020, Rocketseat and others important for better training..
