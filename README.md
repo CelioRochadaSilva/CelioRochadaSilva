@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 # Hi ! welcome to my profile
 
 ## My name is Celio Rocha da Silva 
-![git animado](https://github.com/CelioRochadaSilva/site_pessoal/blob/master/git_animado_1.gif)
+
 
 
 - 🌱 I am currently studying: Angular 8.0, Bootstrap, Node Js ...
