@@ -55,3 +55,11 @@ Here are some ideas to get you started:
 - celioelea@gmail.com.
 - celioelea@hotmail.com
 
+## Latest certificates
+-Analise e Desenvovimento de Sistema (Faculdade Uni São Miguel: 2021)
+- Angular Develor (Digital Innovation 2021)
+- Lógica de Programação (Fuctura 2020)
+- Java básico (IFRS: 2020)
+- Fundação Bradesco (POO, Logica de programação e UML 2020)
+- Curso em video (Python 3 básico 2020)
+
