@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - celioelea@hotmail.com
 
 ## Latest certificates
--Analise e Desenvovimento de Sistema (Faculdade Uni São Miguel: 2021)
+- Analise e Desenvovimento de Sistema (Faculdade Uni São Miguel: 2021)
 - Angular Develor (Digital Innovation 2021)
 - Lógica de Programação (Fuctura 2020)
 - Java básico (IFRS: 2020)
