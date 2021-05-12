@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 👯 I have interest in working with technologies: Backend and frontend
 - 🤔 I have been looking for more qualification with participation in bootcamps: Dio Inovação, online events:, DoWhile2020, Rocketseat and others important for better training..
 
-![tela app](https://github.com/CelioRochadaSilva/jv-weather/blob/main/img/testes.png)
-Obs. Detalhes sobre funcionalidade em breve será adicionada (em desenvolvimento). 
+![git dev](https://github.com/CelioRochadaSilva/p-gina-inicial-do-Instagram/blob/main/img/Gif_Desenvolvedor.gif)
+
 
 
 # Skills:
