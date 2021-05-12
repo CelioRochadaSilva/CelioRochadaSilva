@@ -14,15 +14,7 @@ Here are some ideas to get you started:
 
 ## My name is Celio Rocha da Silva 
 
-
-
-- 🌱 I am currently studying: Angular 8.0, Bootstrap, Node Js ...
-- 👯 I have interest in working with technologies: Backend and frontend
-- 🤔 I have been looking for more qualification with participation in bootcamps: Dio Inovação, online events:, DoWhile2020, Rocketseat and others important for better training..
-
 ![git dev](https://github.com/CelioRochadaSilva/p-gina-inicial-do-Instagram/blob/main/img/Gif_Desenvolvedor.gif)
-
-
 
 # Skills:
 [![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
