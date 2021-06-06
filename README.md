@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 ## Currently studying!
 
--Java ; 
--MYSQL SERVER 2019 ; 
--Code Anywhere boot camp Digital Innovation ; 
+-Java - ; 
+- MYSQL - SERVER 2019 ; 
+-Bootcamps Digital Innovation ; 
 
 
 ## 💬  Languages(Learning)
