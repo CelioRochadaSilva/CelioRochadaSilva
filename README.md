@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 ## Currently studying!
 
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
--MYSQL SERVER 2019
--Code Anywhere boot camp Digital Innovation
+-Java ; 
+-MYSQL SERVER 2019 ; 
+-Code Anywhere boot camp Digital Innovation ; 
 
 
 ## 💬  Languages(Learning)
