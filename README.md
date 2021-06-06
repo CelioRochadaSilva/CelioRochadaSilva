@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - Java - Springg boot, Micro serviços; 
 - MYSQL - SERVER 2019; 
--Bootcamps Digital Innovation ; 
+- Bootcamps Digital Innovation ; 
 
 
 ## 💬  Languages(Learning)
