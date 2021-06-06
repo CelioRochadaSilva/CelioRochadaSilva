@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ## Currently studying!
 
--Java - ; 
-- MYSQL - SERVER 2019 ; 
+-Java - Springg boot, Micro serviços; 
+- MYSQL - SERVER 2019; 
 -Bootcamps Digital Innovation ; 
 
 
