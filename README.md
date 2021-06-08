@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Currently studying!
 
-- Springg boot, Micro serviços; 
+- Spring boot, Micro serviços; 
 - MYSQL - SERVER 2019; 
 - Bootcamps Digital Innovation ; 
 
