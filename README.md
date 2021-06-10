@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 -Angula Developer: Digital Innovation
 
 
-## Currently studying!
-- Bootcamps Digital Innovation ; 
+## Studies, updates and participation in technological events
+- Rocketseat : Dowhile 2020;
+- Bootcamps Digital Innovation: Angular Developer, Code Anywhere ; 
+- DevSuperior: Semana Spring React;
 
 
 ## 💬  Languages(Learning)
