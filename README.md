@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ## My name is Celio Rocha da Silva 
 
-![git dev](https://github.com/CelioRochadaSilva/p-gina-inicial-do-Instagram/blob/main/img/Gif_Desenvolvedor.gif)
+![git dev](https://celiorocha-dsvendas.netlify.app/dashboard)
 
 # Skills:
 [![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
