@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 
 -->
 
-# Hi ! welcome to my profile
+# Hi ! welcome to my profile  ![Gif](https://github.com/CelioRochadaSilva/CelioRochadaSilva/blob/main/tecnologia.gif)
+
 
 ## My name is Celio Rocha da Silva 
-![Gif](https://github.com/CelioRochadaSilva/CelioRochadaSilva/blob/main/tecnologia.gif)
 
 [Link App](https://celiorocha-dsvendas.netlify.app)
 ![App dev](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png) 
