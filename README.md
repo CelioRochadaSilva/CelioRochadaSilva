@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 
 ## Studies, updates and participation in technological events
 - Rocketseat : Dowhile 2020;
-- Bootcamps Digital Innovation: Angular Developer, Code Anywhere ; 
+- Bootcamps Digital Innovation; 
 - DevSuperior: Semana Spring React;
+- TDWC 2021;
 
 
 ## 💬  Languages(Learning)
@@ -55,6 +56,8 @@ Here are some ideas to get you started:
 ## Latest certificates
 - Analise e Desenvovimento de Sistema (Faculdade Uni São Miguel: 2021)
 - Angular Develor (Digital Innovation 2021)
+- Code Anywhere 2021
+- TDWS 2021
 - Lógica de Programação (Fuctura 2020)
 - Java básico (IFRS: 2020)
 - Fundação Bradesco (POO, Logica de programação e UML 2020)
