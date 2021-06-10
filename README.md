@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## My name is Celio Rocha da Silva 
 
 https://celiorocha-dsvendas.netlify.app/dashboard
-![App dev]https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png
+![App dev](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png)
 
 # Skills:
 [![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
