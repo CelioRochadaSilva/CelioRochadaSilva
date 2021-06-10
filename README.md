@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 - 
 -->
 
-# Hi ! welcome to my profile  ![Gif](https://github.com/CelioRochadaSilva/CelioRochadaSilva/blob/main/tecnologia.gif)
+# Hi ! welcome to my profile  
 
+## My name is Celio Rocha da Silva <img src="https://github.com/CelioRochadaSilva/CelioRochadaSilva/blob/main/tecnologia.gif" width="80" height="150" />
 
-## My name is Celio Rocha da Silva 
 
 [Link App](https://celiorocha-dsvendas.netlify.app)
-![App dev](https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png) 
 
+<img src="https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png" width="400" height="300" />;
 # Skills:
 [![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
