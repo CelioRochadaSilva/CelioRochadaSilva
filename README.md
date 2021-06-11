@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - TDWC 2021
 - Lógica de Programação (Fuctura 2020)
 - Java básico (IFRS: 2020)
+- Java POO (Curso em video Gustavo Guanabara 2021) 
 - Fundação Bradesco (POO, Logica de programação e UML 2020)
-- Curso em video (Python 3 básico 2020)
+- Curso em video (Python 3 básico Gustavo Guanabara 2020)
 
