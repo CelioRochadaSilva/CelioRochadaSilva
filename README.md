@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 - celioelea@hotmail.com
 
 ## Latest certificates
-- Analise e Desenvovimento de Sistema (Faculdade UniSãoMiguel: 2021)
-- Angular Develor (Digital Innovation 2021)
+- Análise e Desenvolvimento de Sistemas (Faculdade UniSãoMiguel: 2021)
+- Angular Develor (Digital Innovation One 2021)
 - Code Anywhere 2021
 - TDWC 2021
+- Java POO (Curso em video Gustavo Guanabara 2021)
 - Lógica de Programação (Fuctura 2020)
 - Java básico (IFRS: 2020)
-- Java POO (Curso em video Gustavo Guanabara 2021) 
 - Fundação Bradesco (POO, Logica de programação e UML 2020)
 - Curso em video (Python 3 básico Gustavo Guanabara 2020)
 
