@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ## Studies, updates and participation in technological events
 - Rocketseat : Dowhile 2020;
-- Bootcamps Digital Innovation; 
-- DevSuperior: Semana Spring React;
+- Bootcamps Digital Innovation 2020 , 2021; 
+- DevSuperior: Semana Spring React 2021;
 - TDWC 2021;
 
 
