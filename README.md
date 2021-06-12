@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 ## 💬  Languages(Learning)
-- English - Intermediate;
+- English - basic;
 - Portuguese - Native.
 
 
