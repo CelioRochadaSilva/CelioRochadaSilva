@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - Java : curso DevDojo (studying-2021)
 - TDWC 2021;
 - Rocketseat : Dowhile 2020;
-- Dowhile 2020
 
 
 ## 💬  Languages(Learning)
