@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ## Studies, updates and participation in technological events
 - Bootcamps Digital Innovation 2020 , 2021; 
 - DevSuperior: Semana Spring React 2021;
-- Java : curso DevDojo (studying)
+- Java : curso DevDojo (studying-2021)
 - TDWC 2021;
 - Rocketseat : Dowhile 2020;
 - Dowhile 2020
