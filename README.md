@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Studies, updates and participation in technological events
 - Bootcamps Digital Innovation 2020 , 2021; 
-- DevSuperior: Semana Spring React 2021;
+- DevSuperior: Semana Spring React 2021: create app for sales analysis (Dasboard) and cloud publishing;
 - GFT START #2 Java e Become Remote boot camps studying 2021;
 - Java : curso DevDojo (studying-2021)
 - TDWC 2021;
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 ## 💬  Languages(Learning)
-- English - basic;
+- English - intermediary;
 - Portuguese - Native.
 
 
@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 - celioelea@hotmail.com
 
 ## Latest certificates
-- Análise e Desenvolvimento de Sistemas (Faculdade UniSãoMiguel: 2021)
-- Angular Develor (Digital Innovation One 2021)
-- Code Anywhere 2021
-- TDWC 2021
-- Java POO (Curso em video Gustavo Guanabara 2021)
-- Lógica de Programação (Fuctura 2020)
-- Java básico (IFRS: 2020)
-- Fundação Bradesco (POO, Logica de programação e UML 2020)
-- Curso em video (Python 3 básico Gustavo Guanabara 2020)
+- Analysis and systems development (Faculdade UniSãoMiguel: 2021);
+- Angular Develor (Digital Innovation One 2021);
+- Code Anywhere 2021;
+- TDWC 2021;
+- Java POO (Video course Gustavo Guanabara2021);
+- Lógica de Programação (Fuctura 2020);
+- Java básico (IFRS: 2020);
+- Fundação Bradesco (POO, Logica de programação e UML 2020);
+- Video course (Python 3 básico Gustavo Guanabara 2020).
 
