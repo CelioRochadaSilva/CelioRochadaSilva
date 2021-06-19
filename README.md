@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [Link App](https://celiorocha-dsvendas.netlify.app)
 
-<img src="https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png" width="750" height="350"  align="center"/> <img src="https://github.com/CelioRochadaSilva/CelioRochadaSilva/blob/main/tecnologia.gif" width="180" height="250" align="left"/>
+<img src="https://github.com/CelioRochadaSilva/projeto-sds3/blob/main/tela%20app.png" width="650" height="250"  align="center"/> <img src="https://github.com/CelioRochadaSilva/CelioRochadaSilva/blob/main/tecnologia.gif" width="180" height="250" align="left"/>
 
 
 
