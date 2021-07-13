@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 
 -->
 
-# Hi ! welcome to my profile  
+# Hi ! welcome  
 
 ## My name is Celio Rocha da Silva 
 
