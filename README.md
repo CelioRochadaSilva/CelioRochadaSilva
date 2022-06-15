@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - Angular Develor (Digital Innovation One 2021);
 - Code Anywhere 2021;
 - TDWC 2021;
-- Java POO (Video course Gustavo Guanabara2021);
+- Java POO;
 - Lógica de Programação (Fuctura 2020);
 - Java básico (IFRS: 2020);
 - Fundação Bradesco (POO, Logica de programação e UML 2020);
