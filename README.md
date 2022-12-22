@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 - Lógica de Programação (Fuctura 2020);
 - Java básico (IFRS: 2020);
 - Fundação Bradesco (POO, Logica de programação e UML 2020);
-- Video course (Python 3).
+
 
